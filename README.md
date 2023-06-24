@@ -1,4 +1,4 @@
-# S05T01N02_API_Rest
+# API_REST_SQL
 
 API Rest CRUD amb MySQL
 
